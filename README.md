@@ -9,8 +9,8 @@ Só sei que estou por aqui as vezes, quase sempre procurando uma ajudinha, e as 
 
 <div>
   <a href="https://github.com/danliberti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danliberti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danliberti&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=danliberti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danliberti&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 
