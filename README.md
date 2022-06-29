@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Daniel Liberti!
 Só sei que estou por aqui as vezes, quase sempre procurando uma ajudinha, e as vezes, ajudando.
 
-- 🔭 Atuando atualmente como DevOps, focado em cloud computing
+- 🔭 Atuando atualmente como DevOps
 - 🤔 Tentando aprender NodeJS, Typescript e React
 - 💬 Um pequeno e útil conhecimento em Linux e AWS
 - ⚡ Isso é tudo, pessoal.
