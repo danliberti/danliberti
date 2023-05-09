@@ -7,7 +7,7 @@ Só sei que estou por aqui as vezes, quase sempre procurando uma ajudinha, e as 
 - ⚡ Isso é tudo, pessoal.
 
 
-![Daniel Liberti GitHub](https://github-readme-stats.vercel.app/api?username=danliberti&show_icons=true&theme=algolia)
+#![Daniel Liberti GitHub](https://github-readme-stats.vercel.app/api?username=danliberti&show_icons=true&theme=algolia)
 
 
 ### Para contato, seguem algumas informações:
